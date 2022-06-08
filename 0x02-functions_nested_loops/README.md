@@ -6,3 +6,6 @@ File 3	A function that checks for lowercase character <br />
 File 4	A function that checks for alphabetic character<br />
 File 5	A function that print the sign of a number <br />
 File 6	A function that compute absolute value of an interger <br />
+File 7	A function that print last digit of a Number <br />
+File 8	A function that print every minute of the day <br />
+File 9	A function that print the 9 times table <br />
