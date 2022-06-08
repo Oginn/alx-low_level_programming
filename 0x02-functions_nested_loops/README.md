@@ -11,3 +11,7 @@ File 8	A function that print every minute of the day <br />
 File 9	A function that print the 9 times table <br />
 File 10	A function that add two intergers and returns the result
 File 11	A function that prints all serial numbers from n to 98
+File 12	A function that print nth
+File 13	A function to list all natural numbersbelow 10
+File 14	A program that print first 50 Fibonacci
+File 15	Even Liber Abbaci
