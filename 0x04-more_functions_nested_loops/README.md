@@ -1,5 +1,5 @@
-#<hi>0x04. C - More functions, more nested loops <br />
-##Undestanding Nested while loops, C - Functions, Learning to program in C
+# ** 0x04. C - More functions, more nested loops <br /> **
+## Undestanding Nested while loops, C - Functions, Learning to program in C <br />
 File 0	A function that checks for uppercase character <br />
 File 1	A function that checks for a digit (0 through 9). <br />
 File 2	A function that multiplies two integers <br />
