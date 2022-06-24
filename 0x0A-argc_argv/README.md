@@ -1,4 +1,4 @@
-# 0x0A. C - argc, argv
+# 0x0A. C - argc, argv task
 ##  By Julien Barbier
 - Allowed editors: vi, vim, emacs <br />
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89 <br />
