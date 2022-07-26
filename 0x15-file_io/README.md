@@ -17,5 +17,7 @@
 - Don’t forget to push your header file
 - All your header files should be include guarded
 - Tip: always prefer using symbolic constants (POSIX) vs numbers when it makes sense. For instance read(STDIN_FILENO, ... vs read(0, ... <br/>
-| Learning | Continutinue |
-| - - - - - - - - - - - - |
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
