@@ -4,7 +4,7 @@ This project is designed to teach all about using doubly-linked lists in C.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder files. Provided by Holberton School.
 
 ## Header File :file_folder:
 
