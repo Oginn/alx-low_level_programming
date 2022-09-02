@@ -1,6 +1,6 @@
 # C - Doubly linked lists
 
-In this project, I learned about using doubly-linked lists in C.
+This project is designed to teach all about using doubly-linked lists in C.
 
 ## Tests :heavy_check_mark:
 
